@@ -1,5 +1,8 @@
 # SQL-Summary---Five-ways-to-solve-the-top-n-nth-problems
 
+Leetcode Q176. Second Highest Salary
+![image](https://user-images.githubusercontent.com/60156824/178890278-44d6a151-ae97-45ea-8397-c35165e3a103.png)
+
 
 This problem is similar to problems:
 177, 185, 184, 1194, 1341, 586, 1549, 1532, 1369, 1097, 1077, 1070, 602, 1082, 1112, 619, 574 (most voted)
